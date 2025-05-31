@@ -1,6 +1,6 @@
 # Surgical Referral Digitization – Power Platform Solution (Fraser Health Hackathon 2024)
 
-**Co-author**: Andrew Ihnativ  
+**Co-author**: Andrew Ihnativ  (see PowerPoint for credits)
 **Event**: Microsoft + Fraser Health Hackathon (November 2024)  
 **Solution Stack**: Power Apps, Power Automate, Microsoft Dataverse, Power BI, GitHub, Azure DevOps  
 
@@ -31,10 +31,10 @@ The solution aimed to meet the following goals:
 
 To guide development and UX decisions, the team designed a scenario-driven model with representative users:
 
-- **Provider (e.g., Dr. Strange)** – initiates referrals  
+- **Provider** – initiates referrals  
 - **Booking Clerk (MOA)** – receives and processes referral packages  
-- **Patient (e.g., Hulk)** – indirectly affected by workflow speed and safety  
-- **Admin/IT** – ensures deployment, monitoring, and integration with EMR
+- **Patient** – indirectly affected by workflow speed and safety  
+- **Developer aks Admin/IT** – ensures deployment, monitoring, and integration with EMR
 
 ---
 
