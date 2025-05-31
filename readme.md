@@ -1,6 +1,6 @@
 # Surgical Referral Digitization – Power Platform Solution (Fraser Health Hackathon 2024)
 
-**Co-author**: Andrew Ihnativ  (see PowerPoint for credits)
+**Co-author**: Andrew Ihnativ  (see PowerPoint for credits)  
 **Event**: Microsoft + Fraser Health Hackathon (November 2024)  
 **Solution Stack**: Power Apps, Power Automate, Microsoft Dataverse, Power BI, GitHub, Azure DevOps  
 
