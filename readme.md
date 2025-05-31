@@ -34,7 +34,7 @@ To guide development and UX decisions, the team designed a scenario-driven model
 - **Provider** – initiates referrals  
 - **Booking Clerk (MOA)** – receives and processes referral packages  
 - **Patient** – indirectly affected by workflow speed and safety  
-- **Developer aks Admin/IT** – ensures deployment, monitoring, and integration with EMR
+- **Developer aka Admin/IT** – ensures deployment, monitoring, and integration with EMR
 
 ---
 
